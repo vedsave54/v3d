@@ -23,11 +23,6 @@ h1 {
     text-align: center;
     color: #FFFFFF;
     margin-bottom: 30px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    cursor: pointer;
 }
 
 .password-container {
